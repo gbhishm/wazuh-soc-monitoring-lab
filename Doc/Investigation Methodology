@@ -1,0 +1,41 @@
+# Investigation Methodology
+
+## Step 1
+
+Review dashboard alerts.
+
+---
+
+## Step 2
+
+Identify affected endpoint.
+
+---
+
+## Step 3
+
+Analyze collected logs.
+
+---
+
+## Step 4
+
+Correlate security events.
+
+---
+
+## Step 5
+
+Extract Indicators of Compromise.
+
+---
+
+## Step 6
+
+Document findings.
+
+---
+
+## Step 7
+
+Recommend mitigation actions.
