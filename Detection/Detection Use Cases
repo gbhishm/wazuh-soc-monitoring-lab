@@ -1,0 +1,41 @@
+# Detection Use Cases
+
+## Failed Login Detection
+
+Monitor repeated authentication failures.
+
+---
+
+## Successful Login Monitoring
+
+Track successful authentication events.
+
+---
+
+## Privileged Account Activity
+
+Monitor administrator account usage.
+
+---
+
+## Policy Violation Detection
+
+Detect unauthorized configuration changes.
+
+---
+
+## Suspicious Process Execution
+
+Identify unusual process activity.
+
+---
+
+## Endpoint Monitoring
+
+Monitor endpoint health and security events.
+
+---
+
+## Security Event Correlation
+
+Correlate related events across multiple log sources.
