@@ -1,0 +1,15 @@
+# Lab Setup
+
+## Environment
+
+- Wazuh Manager
+- Wazuh Dashboard
+- Wazuh Agent
+- Windows Endpoint
+- Linux Endpoint
+
+---
+
+## Objective
+
+Create a SOC monitoring environment for endpoint log collection and alert analysis.
