@@ -1,0 +1,40 @@
+# Incident Investigation Report
+
+## Executive Summary
+
+A Wazuh SIEM environment was used to monitor endpoint security events and investigate alerts generated from authentication activity, policy violations, and suspicious system behavior.
+
+---
+
+## Activities Performed
+
+- Endpoint Monitoring
+- Alert Analysis
+- Log Investigation
+- IOC Analysis
+- Event Correlation
+- Incident Documentation
+
+---
+
+## Key Findings
+
+- Security alerts successfully analyzed.
+- Endpoint logs correlated with alert data.
+- Authentication events reviewed.
+- Suspicious activity investigated.
+
+---
+
+## Recommendations
+
+- Enable continuous endpoint monitoring.
+- Review authentication failures regularly.
+- Tune detection rules to reduce false positives.
+- Maintain regular incident documentation.
+
+---
+
+## Conclusion
+
+The project demonstrates practical SOC monitoring, security event analysis, and incident investigation using Wazuh SIEM.
