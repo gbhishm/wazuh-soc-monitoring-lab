@@ -1,0 +1,28 @@
+# Indicators of Compromise (IOCs)
+
+## Network Indicators
+
+- Suspicious IP Addresses
+- Unusual Connections
+
+---
+
+## Host Indicators
+
+- Authentication Failures
+- Suspicious Processes
+- Policy Violations
+
+---
+
+## Behavioral Indicators
+
+- Repeated Login Attempts
+- Abnormal System Activity
+- Unexpected Alerts
+
+---
+
+## Detection Strategy
+
+Correlate multiple security events to identify suspicious activity.
