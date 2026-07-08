@@ -1,0 +1,38 @@
+# Wazuh Rules
+
+## Authentication Monitoring
+
+Monitor successful and failed login events.
+
+---
+
+## Policy Monitoring
+
+Detect security policy violations.
+
+---
+
+## File Integrity Monitoring
+
+Monitor important system files for unauthorized changes.
+
+---
+
+## Process Monitoring
+
+Track suspicious process execution.
+
+---
+
+## Agent Monitoring
+
+Monitor agent connectivity and health.
+
+---
+
+## Alert Classification
+
+- Low
+- Medium
+- High
+- Critical
